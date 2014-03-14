@@ -1,3 +1,7 @@
 language: scala
 scala:
   - 2.10.3
+notifications:
+  email:
+    recipients:
+      - tomerbd1@gmail.com
